@@ -1,0 +1,131 @@
+Live Code Test
+
+Buat program dg spesifikasi berikut:
+
+1)
+cetak segitiga sebanyak n baris
+
+input: 
+5
+
+output: 
+    1 
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1 
+
+2)
+jumlah bilangan prima dari 1 .. n
+
+input:
+10
+
+output:
+17
+
+---
+
+sample i/o:
+100 -> 1060
+1000 -> 76127
+
+
+3) 
+sort berdasarkan nama belakang
+
+data:
+[
+"Seth Morrison",
+"Ben Kasica",
+"John Cooper",
+"Jen Ledger",
+]
+
+output:
+John Cooper
+Ben Kasica
+Jen Ledger
+Seth Morrison
+
+4) 
+proses angka menjadi terbilang dalam bhs indo 
+masukkan n (sebuah angka), kemudian cetak kata-kata (terbilang) dari angka tersebut, maksimum 9999
+
+I: 14
+O: empat belas
+
+I: 25
+O: dua puluh lima
+
+I: 50
+O: lima puluh
+
+I: 234
+O: dua ratus tiga puluh empat
+
+I: 1945
+O: seribu sembilan ratus empat puluh lima
+
+5)
+proses angka menjadi string binary
+masukkan n (sebuah angka), kemudian cetak binary string dari angka tersebut
+
+I: 170
+O: 10101010
+
+I: 136
+O: 10001000
+
+I: 255
+O: 11111111
+
+6)
+cek palindrom dari kata yang diberikan
+
+I: hello
+O: false
+
+I: makam
+O: true
+
+I: racecar
+O: true
+
+I: kasur rusak
+O: true
+
+7) 
+dari kalimat yg diberikan, cetak panjang kata terpendek & panjang kata terpanjang
+
+I: The quick brown fox jumped over the lazy dog
+O: 3 6
+
+I: Lorem ipsum dolor sit amet consectetur adipiscing elit
+O: 3 11
+
+I: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit
+O: 3 11
+
+8)
+masukkan n (sebuah angka dari 1 s.d. 100), kemudian cetak angka romawi dari angka tersebut
+
+kamus:
+I = 1
+V = 5
+X = 10
+L = 50
+
+I: 4
+O: IV
+
+I: 17
+O: XVII
+
+I: 39
+O: XXXIX
+
+I: 75
+O: LXXV
+
+
